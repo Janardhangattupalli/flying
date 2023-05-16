@@ -1,0 +1,45 @@
+body{
+    background: url(good.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: scroll;
+
+    font-family: 'Oswald', sans-serif;
+}         
+.heading{
+    width: 1300px;
+    height: 80px;
+    margin-left: 400px;
+    margin-top: 150px;
+    background:orange;
+}
+.heading h1{
+
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    font-size: 80px;
+}
+.first{
+    text-align: center;
+    color:aliceblue;
+}
+.firstimage{
+   text-align: center;
+   padding: 10px;
+}
+.second{
+    text-align: center;
+    color: whitesmoke;
+}
+.secondimage{
+    text-align: center;
+}
+.image{
+    width: 150px;
+    height: 100px;
+    border-radius: 100px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
